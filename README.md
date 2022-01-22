@@ -4,4 +4,4 @@
 Public Wifi hotspots user count based on location 2019-2021 Data.
 
 # Source
-https://data.ibb.gov.tr/dataset/genc-universiteli-egitim-yardimi-veri-seti/resource/69484e6b-3440-4a61-bf59-19e5fafd49a9
+https://data.ibb.gov.tr/dataset/ibb-wifi-lokasyonlarinda-yillara-gore-kullanici-sayilari/resource/c4ff3626-4092-4669-a1da-04b7294553d7
